@@ -16,5 +16,10 @@ def common_elements(set_1, set_2):
 def uniq_add(my_list=[]):
 def search_replace(my_list, search, replace):
 def square_matrix_simple(matrix=[]):
+def weight_average(my_list=[]):
+def square_matrix_map(matrix=[]):
+def complex_delete(a_dictionary, value):
+void print_python_list(PyObject *p);
+void print_python_bytes(PyObject *p);
 
 #endif /* MAIN_H */
